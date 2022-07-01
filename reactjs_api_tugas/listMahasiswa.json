@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 101120199401,
+      "nama": "Qorina Anindhita Prameswari",
+      "nim": "1941720049",
+      "alamat": "Singosari",
+      "hp": "085704287970",
+      "angkatan": "2019",
+      "status": "Mahasiswa Lulus"
+    },
+    {
+      "id": 101120197912,
+      "nama": "Suwanto",
+      "nim": "1931710034",
+      "alamat": "Batu",
+      "hp": "082342425677",
+      "angkatan": "2018",
+      "status": "Mahasiswa Aktif"
+    }
+  ]
+}
